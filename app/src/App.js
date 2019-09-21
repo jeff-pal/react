@@ -19,7 +19,7 @@ function App({content}) {
   return (
     <div className="App">
       <header className="App-header">
-        {conten}
+        {content}
       </header>
     </div>
   );
